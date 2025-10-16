@@ -7,7 +7,7 @@ As a **junior data analyst**, I enjoy exploring real-world datasets, cleaning an
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🎓 Currently learning **Python Essentials 1** at *Cisco Networking Academy*
 - 📊 Interested in **Data Analytics, Visualization, and Business Intelligence**
@@ -17,7 +17,7 @@ As a **junior data analyst**, I enjoy exploring real-world datasets, cleaning an
 
 ---
 
-## 🔍 Featured Projects
+## Featured Projects
 
 1. [Coffee Production Analysis](./projects/coffee-production)
 2. [GDP vs Life Expectancy Comparison](./projects/gdp-lifeexpectancy)
@@ -26,7 +26,7 @@ As a **junior data analyst**, I enjoy exploring real-world datasets, cleaning an
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 | Category | Tools |
 |-----------|--------|
@@ -37,7 +37,7 @@ As a **junior data analyst**, I enjoy exploring real-world datasets, cleaning an
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/malingu-barnice/)
 - 🧑‍💻 [GitHub](https://github.com/malingubarnice)
