@@ -39,9 +39,9 @@ As a **junior data analyst**, I enjoy exploring real-world datasets, cleaning an
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)
+- 💼 [LinkedIn](https://www.linkedin.com/in/malingu-barnice/)
 - 🧑‍💻 [GitHub](https://github.com/malingubarnice)
-- ✉️ Email: your.email@example.com
+- ✉️ Email: malingubarnice@gmail.com
 
 ---
 
